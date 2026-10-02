@@ -16,7 +16,7 @@ Demo stack for a LangChain research agent and a local chat UI that talks to any 
 - [uv](https://docs.astral.sh/uv/)
 - An OpenAI API key (or LangSmith gateway key)
 - A LangSmith API key (for tracing / hosted Agent Server / chat UI)
-- MDA CLI instaled
+- MDA CLI 
 
 ## 1. Configure env
 
